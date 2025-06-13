@@ -1,4 +1,4 @@
-@prefix : <https://purl.org/ontology/autopsy/> .
+@prefix : <https://github.com/lesliesikos/ontology/blob/main/autopsy.ttl#> .
 @prefix dc: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,7 +6,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 
-<https://purl.org/ontology/autopsy/autopsy.ttl> a owl:Ontology ; dc:title "Autopsy Ontology"@en ; dc:description "The Autopsy Ontology (DFIO) is a digital forensics ontology aligned with the industry-standard Autopsy tool’s terminology."@en ; dc:creator "Dr. Leslie F. Sikos" .
+<https://github.com/lesliesikos/ontology/blob/main/autopsy.ttl> a owl:Ontology ; dc:title "Autopsy Ontology"@en ; dc:description "The Autopsy Ontology is a digital forensics ontology aligned with the industry-standard Autopsy tool’s terminology."@en ; dc:creator "Dr. Leslie F. Sikos" .
 
 # Classes
 
